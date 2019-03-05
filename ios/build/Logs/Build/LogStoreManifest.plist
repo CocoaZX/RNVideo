@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1EEC69E2-2F27-4E5F-A80B-9A3A24982F04</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1EEC69E2-2F27-4E5F-A80B-9A3A24982F04.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>RCTVideo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RCTVideo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project RCTVideo with scheme RCTVideo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572951031.69386303</real>
+			<key>timeStoppedRecording</key>
+			<real>572951040.90567303</real>
+			<key>title</key>
+			<string>Building project RCTVideo with scheme RCTVideo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1EEC69E2-2F27-4E5F-A80B-9A3A24982F04</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
